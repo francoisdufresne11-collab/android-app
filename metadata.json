@@ -1,0 +1,6 @@
+{
+  "name": "Lecteur IPTV",
+  "description": "Un lecteur IPTV intuitif compatible m3u et m3u8 pour gérer et regarder plusieurs listes de lecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
